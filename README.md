@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**DavioDev/DavioDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Davi José 🙋🏻🇧🇷
 
-Here are some ideas to get you started:
+I'm a full-stack junior programmer since 2020. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
+
+### 🌍 "A maioria de nós prefere olhar para fora do que para dentro de si mesmo." 🧠
+
+- 📍 Of São José dos Campos
+- 💻 Novice developer
+- 💁🏽 13 years
