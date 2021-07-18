@@ -10,4 +10,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 
 - 📍 Of São José dos Campos
 - 💻 Novice developer
-- 💁🏽 13 years
+- 💁🏽 14 years
