@@ -12,3 +12,8 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 💻 Novice developer
 - 💁🏽 14 years
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="1000px">
+<img src="https://github-readme-stats.vercel.app/api/?username=BielMaxBR&theme=nightowl&hide_title=true">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BielMaxBR&langs_count=5&theme=nightowl&hide=css">
+
+
