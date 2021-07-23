@@ -6,8 +6,7 @@ I'm a full-stack junior programmer since 2020. 💻
 
 I'm passionate about solving problems and learning. Always open to new challenges and ready to face changes.
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
-"A maioria de nós prefere olhar para fora do que para dentro de si mesmo."<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
+### "A maioria de nós prefere olhar para fora do que para dentro de si mesmo."<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="30px">
 
 - 📍 From São José dos Campos
 - 💻 Novice developer
