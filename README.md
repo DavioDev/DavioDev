@@ -11,4 +11,4 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 📍 From São José dos Campos
 - 💻 Novice developer
 - 💁🏽 14 years
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="24px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="100px">
