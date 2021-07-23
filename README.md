@@ -12,7 +12,7 @@ I'm passionate about solving problems and learning. Always open to new challenge
 - 💻 Novice developer
 - 💁🏽 14 years
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="1000px">
-![Karanalpe Status](https://github-readme-stats.vercel.app/api?username=DavioDev_icons=true)
+![DavioDev Status](https://github-readme-stats.vercel.app/api?username=DavioDev_icons=true)
 
 
 
