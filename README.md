@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey 👋 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">
 
 My name is Davi José 🙋🏻🇧🇷
 
