@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🤓 Adolescente fã de física, matemática, astrofísica, programação e computação gráfica.
-- 🌱 Aprendendo e me aprimorando em Banco de dados, e Sistemas Operacionais.
-- ⚡ Sempre aprendendo
+- 🧐  Fã de física, matemática, astrofísica, programação e computação gráfica.
+- 😉 Aprendendo e me aprimorando em Banco de dados, e Sistemas Operacionais.
+- 🖖 Sempre aprendendo
 
 
 -----
@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 
-**Engine do Space Duel**
+**👽 Engine do Space Duel 👽**
 
 ![](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
 
