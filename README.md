@@ -1,5 +1,4 @@
-### Ola 👋
-
+### Hello 👋
 
 
 - 🧐  I'm interested in  physics, mathematics, astrophysics, programming and computer graphics.
