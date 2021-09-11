@@ -1,9 +1,9 @@
 ### Hello 👋
 
 
-- 🧐  I'm interested in  physics, mathematics, programming .
-- 😉 Aprendendo e me aprimorando em Banco de dados, e Sistemas Operacionais.
-- 🖖 Sempre aprendendo
+- 🧐  I'm interested in  physics, mathematics, programming 
+- 😉 Learning and improving on Database
+- 🖖Always learning
 
 
 -----
