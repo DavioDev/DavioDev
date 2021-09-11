@@ -1,7 +1,7 @@
 ### Hello 👋
 
 
-- 🧐  I'm interested in  physics, mathematics, astrophysics, programming and computer graphics.
+- 🧐  I'm interested in  physics, mathematics, programming .
 - 😉 Aprendendo e me aprimorando em Banco de dados, e Sistemas Operacionais.
 - 🖖 Sempre aprendendo
 
