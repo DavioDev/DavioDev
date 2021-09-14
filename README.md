@@ -44,7 +44,7 @@
 
 ------
 
-![](https://img.shields.io/github/followers/{DavioDev}.svg?style=social&label=Follow&maxAge=2592000)
+![](https://img.shields.io/github/followers/DavioDev.svg?style=social&label=Follow&maxAge=2592000)
 
 
 <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="1000px">
