@@ -42,11 +42,14 @@
 
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavioDev&theme=blue-green)
+
 ------
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavioDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <div>
+
 
 
 
