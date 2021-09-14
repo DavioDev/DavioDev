@@ -41,6 +41,7 @@
 **My main Operating System outside Windows:**
 
 ![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+------
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DavioDev&theme=blue-green)
 
