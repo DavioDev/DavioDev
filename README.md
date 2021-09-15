@@ -25,15 +25,13 @@
 
 <div>
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DavioDev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   ------
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioDev&layout=compact&langs_count=7&theme=dark"/>
   <div>
-
-
-
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" width="1000px">
-
+ 
+ ------
+ <div>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioDev&layout=compact&langs_count=7&theme=dark"/>
+ <div>
+ 
 
 
 
