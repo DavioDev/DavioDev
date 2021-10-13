@@ -5,9 +5,6 @@
 - 🤓Studying OpenGL and Database
 
 
------
-**Code Wars** : <img align="center" src="https://www.codewars.com/users/Davizin/badges/large" width="256px">
-
 ----
 
 **My main Programming Language and editor :**
