@@ -6,6 +6,9 @@
 
 
 -----
+**Code Wars** : <img align="center" src="https://www.codewars.com/users/Davizin/badges/large" width="256px">
+
+----
 
 **My main Programming Language and editor :**
 
@@ -38,6 +41,8 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavioDev&layout=compact&langs_count=7&theme=dark"/>
  <div>
  
+
+
 
 
 
